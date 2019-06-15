@@ -4,7 +4,7 @@
 	<title>desarrollo</title>
 </head>
 <body>
-	<h1>Nuevo archivo</h1>
-	<h1>Nuevo modificación 2 al nuevo</h1>
+	<h1>Archivo 2</h1>
+	<h1>para prueba de fetch</h1>
 </body>
 </html>
